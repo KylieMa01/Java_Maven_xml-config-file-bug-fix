@@ -1,0 +1,1 @@
+# Java_Maven_xml-config-file-bug-fix
